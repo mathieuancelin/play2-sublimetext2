@@ -23,6 +23,7 @@ Get the latest Sublime Text 2 beta from http://www.sublimetext.com/2.
 - `dbconn ➝` : Creates a DB.withConnection structure (scala & java)
 - `dbtrans ➝` : Creates a DB..withTransaction structure (scala & java)
 - `entity ➝` : Creates a Ebean entity structure (java)
+- `evolutions ➝` : Creates the evolution up/down tags in sql file
 - `pforeach ➝` : Creates an foreach structure in templates (html)
 - `form ➝` : Creates a simple form structure (scala & java)
 - `pform ➝` : Creates a simple html form (html)
