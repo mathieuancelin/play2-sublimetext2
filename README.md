@@ -15,32 +15,52 @@ Get the latest Sublime Text 2 beta from http://www.sublimetext.com/2.
 - `action ➝` : Creates an action (scala & java)
 - `actor ➝` : Get an actor from Akka (scala & java)
 - `aync ➝` : Creates an async result (scala & java)
+- `badRequest ➝` : Creates a badRequest result (scala & java)
 - `bindform ➝` : Creates form binding from request structure (scala & java)
 - `cacheget ➝` : Retrieve value from cache (scala & java)
 - `cacheset ➝` : Put value in cache (scala & java)
 - `callbackenum ➝` : Creates callback enumerator (scala)
+- `comet ➝` : Creates a comet Action (scala & java)
 - `controller ➝` : Creates a Controller structure (scala & java)
+- `cookieget ➝` : Get a cookie  (scala & java)
+- `cookieset ➝` : Create a new cookie (scala & java)
 - `dbconn ➝` : Creates a DB.withConnection structure (scala & java)
 - `dbtrans ➝` : Creates a DB..withTransaction structure (scala & java)
 - `entity ➝` : Creates a Ebean entity structure (java)
 - `evolutions ➝` : Creates the evolution up/down tags in sql file
+- `flashget ➝` : Get a value from flash scope (scala & java)
+- `flashset ➝` : Put a value in flashj scope (scala & java)
 - `pforeach ➝` : Creates an foreach structure in templates (html)
 - `form ➝` : Creates a simple form structure (scala & java)
 - `pform ➝` : Creates a simple html form (html)
 - `fromconf ➝` : Creates value from conf file (scala & java)
 - `global ➝` : Creates a Global object structure (scala & java)
 - `htmlform ➝` : Creates a form in templates (html)
+- `internalError ➝` : Creates a internalServerError result (scala & java)
 - `model ➝` : Creates a JDBC model structure (scala)
+- `notFound ➝` : Creates a notFound result (scala & java)
 - `ok ➝` : Creates a Ok result (scala & java)
 - `pushenum ➝` : Creates an imperative enumerator (scala)
 - `redirect ➝` : Creates redirection (scala & java)
+- `rdel ➝` : Creates a static delete route
+- `rget ➝` : Creates a static get route
+- `rhead ➝` : Creates a static head route
+- `rpost ➝` : Creates a static post route
+- `rput ➝` : Creates a static put route
+- `rdyndel ➝` : Creates a dynamic delete route
+- `rdynget ➝` : Creates a dynamic get route
+- `rdynhead ➝` : Creates a dynamic head route
+- `rdynpost ➝` : Creates a dynamic post route
+- `rdynput ➝` : Creates a dynamic put route
 - `schedule ➝` : Creates a scheduled task (scala & java)
 - `sql ➝` : Creates a SQL structure (scala)
 - `sessionget ➝` : Retrieve a value from session (scala & java)
 - `sessionset ➝` : Put value in session (scala & java)
 - `sse ➝` : Creates a SSE action (scala)
+- `status ➝` : Creates a result with specific http status (scala & java)
 - `tupleform ➝` : Creates a multiple input form (scala)
 - `template ➝` : Creates a html template structure (html)
+- `unauthorized ➝` : Creates a unauthorized result (scala & java)
 - `websocket ➝` : Creates a websocket action (scala & java)
 
 ## Theme
